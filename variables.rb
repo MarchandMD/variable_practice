@@ -14,3 +14,10 @@ flowet = 2.34
 
 12 
 commit
+
+13. booleans
+is_it? = true
+
+negation = false
+
+14. commit
